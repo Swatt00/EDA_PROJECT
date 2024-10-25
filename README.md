@@ -1,4 +1,6 @@
 # EDA_PROJECT
+Project Name: AirBnb Bookings Analysis
+
 # PROJECT SUMMARY------
 This project analyzes the Airbnb NYC 2019 dataset to explore key trends and patterns within the NYC Airbnb market. Through exploratory data analysis and visualization techniques, the project aims to uncover insights into factors influencing listing prices, availability, and customer satisfaction.
 
